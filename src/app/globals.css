@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.react-beautiful-dnd-draggable {
+    transition: transform 0.2s;
+}
